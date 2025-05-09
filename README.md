@@ -3,7 +3,9 @@
 ### Overview
 This project analyzes historical data from the TV show "Shark Tank" (first 6 seasons, 495 pitches) to predict whether a startup will successfully secure a deal with an investor ("shark"). The analysis involves comprehensive exploratory data analysis (EDA), feature engineering (including text analysis of pitch descriptions and clustering of business categories), and the application of various classification machine learning models in R to identify key predictors of funding success.
 
-### Repository Structure
+### Directory layout
+
+   ```bash
 .
 ├── README.md
 ├── data
@@ -17,7 +19,7 @@ This project analyzes historical data from the TV show "Shark Tank" (first 6 sea
 │   └── Shark Tank Prediction Report.pdf
 └── docs
     └── Shark tank dictionary.xlsx
- 
+ ```
 
 ### Problem Statement
 Securing investment is a critical hurdle for startups. On "Shark Tank," entrepreneurs pitch their businesses to a panel of investors. Understanding the factors that influence whether a pitch results in a deal can provide valuable insights for entrepreneurs preparing their pitches and for understanding investor decision-making. This project aims to build a predictive model to identify these factors and forecast deal outcomes.
