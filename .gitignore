@@ -1,0 +1,10 @@
+# R history & workspace
+.Rhistory
+.RData
+
+# Excel exports & PDF reports
+*.xlsx
+*.pdf
+
+# macOS Finder metadata
+.DS_Store
