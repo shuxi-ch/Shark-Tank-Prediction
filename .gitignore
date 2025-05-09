@@ -3,8 +3,8 @@
 .RData
 
 # Excel exports & PDF reports
-*.xlsx
-*.pdf
+# *.xlsx
+# *.pdf
 
 # macOS Finder metadata
 .DS_Store
